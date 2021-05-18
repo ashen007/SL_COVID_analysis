@@ -1,7 +1,2 @@
-numpy
-pandas
-plotly
-dash
-missingno
-featureengine
-sklearn
+requests
+json
