@@ -1,4 +1,3 @@
-import pprint
 from module import GetData
 
 if __name__ == '__main__':
