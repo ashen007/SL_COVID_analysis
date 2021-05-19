@@ -39,3 +39,8 @@ def get_daily_reports(page, path):
 
     else:
         print('url error')
+
+
+# TODO
+def extract_tables_from_PDF(file):
+    return
