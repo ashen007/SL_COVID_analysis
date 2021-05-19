@@ -1,2 +1,5 @@
 requests
 json
+urllib
+bs4
+re

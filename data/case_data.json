@@ -1826,11 +1826,11 @@
                 "date": "2021-05-18"
             }
         ],
-        "global_deaths": 3385567,
-        "global_new_cases": 634077,
-        "global_new_deaths": 12153,
-        "global_recovered": 142725702,
-        "global_total_cases": 163261106,
+        "global_deaths": 3412157,
+        "global_new_cases": 549637,
+        "global_new_deaths": 10741,
+        "global_recovered": 144775633,
+        "global_total_cases": 164669749,
         "hospital_data": [
             {
                 "created_at": "2021-05-15 13:16:04",
@@ -2625,15 +2625,15 @@
                 "updated_at": null
             }
         ],
-        "local_active_cases": 24057,
-        "local_deaths": 981,
-        "local_new_cases": 1734,
-        "local_new_deaths": 0,
+        "local_active_cases": 26575,
+        "local_deaths": 1015,
+        "local_new_cases": 2478,
+        "local_new_deaths": 34,
         "local_recovered": 121145,
-        "local_total_cases": 145202,
-        "local_total_number_of_individuals_in_hospitals": 23076,
+        "local_total_cases": 147720,
+        "local_total_number_of_individuals_in_hospitals": 25560,
         "total_pcr_testing_count": 3215903,
-        "update_date_time": "2021-05-18 18:54:06"
+        "update_date_time": "2021-05-18 23:32:23"
     },
     "message": "Success",
     "success": true
