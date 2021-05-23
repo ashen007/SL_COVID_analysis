@@ -3,3 +3,8 @@ json
 urllib
 bs4
 re
+pandas
+numpy
+missingno
+seaborn
+feature-engine
