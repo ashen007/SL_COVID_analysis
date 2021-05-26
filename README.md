@@ -1,8 +1,8 @@
 # SL_COVID_analysis
 analysis of current situation of the sri lanka in pandamic and vaccination effectiviness.
 
-check dashboard - '' <br>
-web app repository - 'https://github.com/ashen007/sl-covid-dashboard'<br>
+### check dashboard(under construction) - 'https://sl-covid19-dashboard.herokuapp.com/local/' <br>
+### web app repository - 'https://github.com/ashen007/sl-covid-dashboard'<br>
 <br>
 
 ## data source
